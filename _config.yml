@@ -20,7 +20,7 @@ author: Smily
 organization: ...
 organization_url: ...
 github_username: rzh0001
-location: Xiamen, Fujian, China
+location: Xiamen, China
 email: rzh0001@qq.com
 
 # ---------------- #
@@ -89,10 +89,10 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: rzh0001
+    username: # rzh0001
 # https://gentie.163.com
 netease_gentie:
-    productKey: 560ed243b708465d82d5a0a5f3b83da1
+    productKey: # 560ed243b708465d82d5a0a5f3b83da1
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: rzh0001

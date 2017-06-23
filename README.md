@@ -1,6 +1,6 @@
 # 码志
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<http://smily.space>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -25,7 +25,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 1. 正确设置项目名称与分支。
 
-   按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
+   按照 GitHub Pages 的规定，名称为 `github_username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
 
 2. 修改域名。
 
