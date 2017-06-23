@@ -96,7 +96,7 @@ netease_gentie:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: rzh0001
-    repo: blog-comment
+    repo: blog-comments
     oauth:
         client_id: a12c4fbc837c2aa6e217
         client_secret: 372b2d5c3585a07486fed60cceb565853096cdfe
