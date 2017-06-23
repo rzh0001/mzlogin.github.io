@@ -1,4 +1,4 @@
-# 码志
+# Smily
 
 我的个人博客：<http://smily.space>，欢迎 Star 和 Fork。
 
@@ -15,9 +15,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://mazhuang.org)**
+**[在线预览 &rarr;](http://smily.space)**
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](http://smily.space/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
