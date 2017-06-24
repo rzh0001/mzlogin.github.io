@@ -11,7 +11,7 @@ keywords: 阮振华, ruanzh, rzh0001, Smily
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-music_id: 422428930 # 云音乐
+music_id: 27588486
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -69,6 +69,7 @@ gems:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
+    - jekyll-publish
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
@@ -89,11 +90,11 @@ comments_provider: gitment
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: rzh0001
+# disqus:
+    # username: rzh0001
 # https://gentie.163.com
-netease_gentie:
-    productKey: 560ed243b708465d82d5a0a5f3b83da1
+# netease_gentie:
+    # productKey: 560ed243b708465d82d5a0a5f3b83da1
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: rzh0001
@@ -102,7 +103,7 @@ gitment:
         client_id: a12c4fbc837c2aa6e217
         client_secret: 372b2d5c3585a07486fed60cceb565853096cdfe
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+# lazy_load_disqus : true
 
 # ---------------- #
 #    Analytics     #

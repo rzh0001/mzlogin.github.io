@@ -1,25 +1,16 @@
 ---
 layout: post
-title: Jekyll + Github Pages 搭建静态博客  
+title: Jekyll + Github Pages 搭建静态博客 - 初始篇  
 categories: [blog]
 description: some word here
 keywords: github, pages, jekyll, blog
 music_id: 27588486
 ---
+# Jekyll + Github Pages 适合我吗？
+当有人叫我使用 Jekyll 搭建静态博客的时候，一开始我是拒绝的，不能你叫我用我就用。  
+我得先试试，当我使用下来的时候，很柔，很亮。我用是这样子，你用也是这样子的。:smile:  
 
-当有人叫我使用 Jekyll 搭建静态博客的时候，一开始我是拒绝的，不能你叫我用我就用。  我得先试试，当我使用下来的时候，很柔，很亮。我用是这样子，你用也是这样子的。:smile:  
 
-# 文章目录
-<!-- vim-markdown-toc GFM -->
-* [搭建过程](#搭建过程)
-	* [环境搭建](#环境搭建)
-	* [创建博客](#创建博客)
-	* [域名](#域名)
-		* [域名购买](#域名购买)
-		* [配置DNS解析](#配置dns解析)
-		* [配置 CNAME](#配置-cname)
-
-<!-- vim-markdown-toc -->
 
 # 搭建过程
 
