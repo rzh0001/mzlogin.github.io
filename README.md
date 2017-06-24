@@ -42,7 +42,8 @@ music_id: -1
 
 ## 致谢
 
-本博客外观由[mzlogin](https://github.com/mzlogin/mzlogin.github.io)基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
+本博客外观基于 [mzlogin] (https://github.com/mzlogin/mzlogin.github.io)修改，感谢！
+
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
