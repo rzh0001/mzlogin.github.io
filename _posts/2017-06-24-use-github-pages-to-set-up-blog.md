@@ -9,7 +9,7 @@ music_id: 27588486
 # Jekyll + Github Pages 适合我吗？
 当有人叫我使用 Jekyll 搭建静态博客的时候，一开始我是拒绝的，不能你叫我用我就用。  
 我得先试试，当我使用下来的时候，很柔，很亮。我用是这样子，你用也是这样子的。:smile:  
-
+![](/images/blog/Jackie-shake-head.gif)
 
 
 # 搭建过程
