@@ -11,7 +11,7 @@ keywords: 阮振华, ruanzh, rzh0001, Smily
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-music_id: 27588486
+music_id: 1698413
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -69,7 +69,6 @@ gems:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
-    - jekyll-publish
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
