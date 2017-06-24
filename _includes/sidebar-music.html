@@ -1,0 +1,12 @@
+{% if page.music_id %}
+    <iframe frameborder="no" width=330 height=86 
+    src="//music.163.com/outchain/player?type=2&id={{ page.music_id }}&auto=1&height=66">	
+    </iframe>
+{% else %}
+	{% if site.music_id %}
+		<iframe frameborder="no" width=330 height=86 
+	    src="//music.163.com/outchain/player?type=2&id={{ site.music_id }}&auto=1&height=66">
+	    </iframe>
+    {% endif %}
+{% endif %}
+
